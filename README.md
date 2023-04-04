@@ -10,3 +10,4 @@
 | llama-rs              | https://github.com/rustformers/llama-rs          |
 | GPTQ-for-LLaMa        | https://github.com/qwopqwop200/GPTQ-for-LLaMa    |
 | ColossalAI            | https://github.com/hpcaitech/ColossalAI          |
+| Chinese-Vicuna        | https://github.com/Facico/Chinese-Vicuna         |
