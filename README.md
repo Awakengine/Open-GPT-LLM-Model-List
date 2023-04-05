@@ -11,7 +11,7 @@
 | GPTQ-for-LLaMa        | https://github.com/qwopqwop200/GPTQ-for-LLaMa    |
 | ColossalAI            | https://github.com/hpcaitech/ColossalAI          |
 | Chinese-Vicuna        | https://github.com/Facico/Chinese-Vicuna         |
-| stable-diffusion      | https://github.com/CompVis/stable-diffusion      |
+| LMFlow      | [https://github.com/CompVis/stable-diffusion](https://github.com/OptimalScale/LMFlow)      |
 
 
 # Chat 相关
@@ -19,3 +19,4 @@
 | ----- | ------ | ---- |
 | jarvis | [https://github.com/microsoft/JARVIS](https://github.com/microsoft/JARVIS) | 微软开源的贾维斯源码 |
 | chatgpt-vue | https://github.com/lianginx/chatgpt-vue | chatgpt聊天UI，基于Vue实现 |
+| stable-diffusion      | https://github.com/CompVis/stable-diffusion      | 图片生成 |
