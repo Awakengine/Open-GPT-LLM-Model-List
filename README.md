@@ -12,3 +12,9 @@
 | ColossalAI            | https://github.com/hpcaitech/ColossalAI          |
 | Chinese-Vicuna        | https://github.com/Facico/Chinese-Vicuna         |
 | stable-diffusion      | https://github.com/CompVis/stable-diffusion      |
+
+
+# Chat 相关
+| Name  |  link  |
+| ----- | ------ |
+| jarvis | [https://github.com/microsoft/JARVIS] |
