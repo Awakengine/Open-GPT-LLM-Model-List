@@ -18,3 +18,4 @@
 | Name  |  link  | 描述 |
 | ----- | ------ | ---- |
 | jarvis | [https://github.com/microsoft/JARVIS](https://github.com/microsoft/JARVIS) | 微软开源的贾维斯源码 |
+| chatgpt-vue | https://github.com/lianginx/chatgpt-vue | chatgpt聊天UI，基于Vue实现 |
