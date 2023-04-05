@@ -17,4 +17,4 @@
 # Chat 相关
 | Name  |  link  |
 | ----- | ------ |
-| jarvis | [https://github.com/microsoft/JARVIS] |
+| jarvis | [https://github.com/microsoft/JARVIS](https://github.com/microsoft/JARVIS) |
