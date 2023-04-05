@@ -15,6 +15,6 @@
 
 
 # Chat 相关
-| Name  |  link  |
-| ----- | ------ |
-| jarvis | [https://github.com/microsoft/JARVIS](https://github.com/microsoft/JARVIS) |
+| Name  |  link  | 描述 |
+| ----- | ------ | ---- |
+| jarvis | [https://github.com/microsoft/JARVIS](https://github.com/microsoft/JARVIS) | 微软开源的贾维斯源码 |
