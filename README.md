@@ -12,7 +12,7 @@
 | ColossalAI            | https://github.com/hpcaitech/ColossalAI          |
 | Chinese-Vicuna        | https://github.com/Facico/Chinese-Vicuna         |
 | LMFlow      | [https://github.com/CompVis/stable-diffusion](https://github.com/OptimalScale/LMFlow)      |
-
+| FastChat      | [https://github.com/lm-sys/FastChat](https://github.com/lm-sys/FastChat)      | 
 
 # Chat 相关
 | Name  |  link  | 描述 |
@@ -21,3 +21,5 @@
 | chatgpt-vue | https://github.com/lianginx/chatgpt-vue | chatgpt聊天UI，基于Vue实现 |
 | stable-diffusion      | https://github.com/CompVis/stable-diffusion      | 图片生成 |
 | MochiDiffusion      | https://github.com/godly-devotion/MochiDiffusion      | M1\M2图片生成 |
+
+
