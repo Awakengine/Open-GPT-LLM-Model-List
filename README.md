@@ -20,3 +20,4 @@
 | jarvis | [https://github.com/microsoft/JARVIS](https://github.com/microsoft/JARVIS) | 微软开源的贾维斯源码 |
 | chatgpt-vue | https://github.com/lianginx/chatgpt-vue | chatgpt聊天UI，基于Vue实现 |
 | stable-diffusion      | https://github.com/CompVis/stable-diffusion      | 图片生成 |
+| MochiDiffusion      | https://github.com/godly-devotion/MochiDiffusion      | M1\M2图片生成 |
