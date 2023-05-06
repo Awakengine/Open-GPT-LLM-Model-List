@@ -1,4 +1,4 @@
-# ChatFreeModel
+# Open GPT/LLM Model List
 | Name                  | git link                                         |
 | --------------------- | ------------------------------------------------ |
 | gpt4all               | https://github.com/nomic-ai/gpt4all              |
