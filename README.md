@@ -13,6 +13,10 @@
 | Chinese-Vicuna        | https://github.com/Facico/Chinese-Vicuna         |
 | LMFlow      | [https://github.com/CompVis/stable-diffusion](https://github.com/OptimalScale/LMFlow)      |
 | FastChat      | [https://github.com/lm-sys/FastChat](https://github.com/lm-sys/FastChat)      | 
+| gpt4free      | [https://github.com/xtekky/gpt4free](https://github.com/xtekky/gpt4free)| 
+| Discord-Chatbot-Gpt4Free      | [https://github.com/mishalhossin/Discord-Chatbot-Gpt4Free](https://github.com/mishalhossin/Discord-Chatbot-Gpt4Free)      | 
+| Auto-GPT      | [https://github.com/Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)      | 
+| MiniGPT-4-ZH      | [https://github.com/RiseInRose/MiniGPT-4-ZH](https://github.com/RiseInRose/MiniGPT-4-ZH)      | 
 
 # Chat 相关
 | Name  |  link  | 描述 |
@@ -20,6 +24,7 @@
 | jarvis | [https://github.com/microsoft/JARVIS](https://github.com/microsoft/JARVIS) | 微软开源的贾维斯源码 |
 | chatgpt-vue | https://github.com/lianginx/chatgpt-vue | chatgpt聊天UI，基于Vue实现 |
 | stable-diffusion      | https://github.com/CompVis/stable-diffusion      | 图片生成 |
+| stable-diffusion-webui      | https://github.com/AUTOMATIC1111/stable-diffusion-webui      | 图片生成 |
 | MochiDiffusion      | https://github.com/godly-devotion/MochiDiffusion      | M1\M2图片生成 |
 
 
