@@ -16,7 +16,7 @@
 | gpt4free      | [https://github.com/xtekky/gpt4free](https://github.com/xtekky/gpt4free)| 
 | Discord-Chatbot-Gpt4Free      | [https://github.com/mishalhossin/Discord-Chatbot-Gpt4Free](https://github.com/mishalhossin/Discord-Chatbot-Gpt4Free)      | 
 | Auto-GPT      | [https://github.com/Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)      | 
-| MiniGPT-4-ZH      | [https://github.com/RiseInRose/MiniGPT-4-ZH](https://github.com/RiseInRose/MiniGPT-4-ZH)      | 
+| VisualGLM-6B     | [https://github.com/THUDM/VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)      | 
 
 # Chat 相关
 | Name  |  link  | 描述 |
