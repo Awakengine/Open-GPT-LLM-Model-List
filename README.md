@@ -3,6 +3,7 @@
 | --------------------- | ------------------------------------------------ |
 | gpt4all               | https://github.com/nomic-ai/gpt4all              |
 | ChatGLM-6B            | https://github.com/THUDM/ChatGLM-6B              |
+| ChatGLM2-6B           | https://github.com/THUDM/ChatGLM2-6B              |
 | GLM-130B              | https://github.com/THUDM/GLM-130B                |
 | llama                 | https://github.com/facebookresearch/llama        |
 | llama.cpp             | https://github.com/ggerganov/llama.cpp           |
