@@ -33,4 +33,4 @@
 | stable-diffusion      | https://github.com/CompVis/stable-diffusion      | 图片生成 |
 | stable-diffusion-webui      | https://github.com/AUTOMATIC1111/stable-diffusion-webui      | 图片生成 |
 | MochiDiffusion      | https://github.com/godly-devotion/MochiDiffusion      | M1\M2图片生成 |
-| Fooocus | https://github.com/lllyasviel/Fooocus.git(https://github.com/lllyasviel/Fooocus.git) | Fooocus |
+| Fooocus | [https://github.com/lllyasviel/Fooocus.git](https://github.com/lllyasviel/Fooocus.git) | Fooocus |
