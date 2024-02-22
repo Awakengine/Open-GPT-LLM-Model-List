@@ -20,6 +20,7 @@
 | VisualGLM-6B     | [https://github.com/THUDM/VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)      | 
 | MiniGPT-4     | [https://github.com/Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)      | 
 | WizardCoder     | [https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder](https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder)      | 
+| LargeWorldModel/LWM     | [[https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder](https://github.com/LargeWorldModel/LWM?tab=readme-ov-file)]([https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder](https://github.com/LargeWorldModel/LWM?tab=readme-ov-file))      | 
 
 # Chat 相关
 | Name  |  link  | 描述 |
