@@ -34,6 +34,7 @@
 # AI绘图
 | Name | Link | 描述 |
 | ----- | ---- | ----|
+| Stable Diffusion Version 2      |  https://github.com/Stability-AI/stablediffusion     | 图片生成 |
 | stable-diffusion      | https://github.com/CompVis/stable-diffusion      | 图片生成 |
 | stable-diffusion-webui      | https://github.com/AUTOMATIC1111/stable-diffusion-webui      | 图片生成 |
 | MochiDiffusion      | https://github.com/godly-devotion/MochiDiffusion      | M1\M2图片生成 |
