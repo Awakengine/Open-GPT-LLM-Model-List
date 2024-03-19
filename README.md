@@ -24,6 +24,10 @@
 | WizardCoder     | [https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder](https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder)      | 
 | LargeWorldModel/LWM     | [[https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder](https://github.com/LargeWorldModel/LWM?tab=readme-ov-file)]([https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder](https://github.com/LargeWorldModel/LWM?tab=readme-ov-file))      | 
 
+| xai-org/grok-1     | https://github.com/xai-org/grok-1      | 
+| geekan/MetaGPT     | https://github.com/geekan/MetaGPT      | 
+
+
 # Chat 相关
 | Name  |  link  | 描述 |
 | ----- | ------ | ---- |
