@@ -8,6 +8,8 @@
 | CogVLM & CogAgent           | https://github.com/THUDM/CogVLM?tab=readme-ov-file              |
 | GLM-130B              | https://github.com/THUDM/GLM-130B                |
 | llama                 | https://github.com/facebookresearch/llama        |
+| Llama-Guard2                 | https://github.com/meta-llama/PurpleLlama/tree/main/Llama-Guard2        |
+| llama3                 | https://github.com/meta-llama/llama3        |
 | llama.cpp             | https://github.com/ggerganov/llama.cpp           |
 | Chinese-LLaMA-Alpaca  | https://github.com/ymcui/Chinese-LLaMA-Alpaca    |
 | llama-rs              | https://github.com/rustformers/llama-rs          |
