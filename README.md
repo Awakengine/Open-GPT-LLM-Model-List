@@ -46,3 +46,11 @@
 | stable-diffusion-webui      | https://github.com/AUTOMATIC1111/stable-diffusion-webui      | 图片生成 |
 | MochiDiffusion      | https://github.com/godly-devotion/MochiDiffusion      | M1\M2图片生成 |
 | Fooocus | [https://github.com/lllyasviel/Fooocus.git](https://github.com/lllyasviel/Fooocus.git) | Fooocus |
+
+# AGI
+| Name | Link | 描述 |
+| ----- | ---- | ----|
+| AutoGPT     |  https://github.com/Significant-Gravitas/AutoGPT     | AutoGPT |
+| SuperAGI     |  htthttps://github.com/TransformerOptimus/SuperAGI     | SuperAGI |
+| AgentGPT     |  https://github.com/reworkd/AgentGPT     | AgentGPT |
+| big-AGI     |  https://github.com/enricoros/big-AGI     | big-AGI |
