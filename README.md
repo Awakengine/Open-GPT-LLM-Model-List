@@ -51,6 +51,6 @@
 | Name | Link | 描述 |
 | ----- | ---- | ----|
 | AutoGPT     |  https://github.com/Significant-Gravitas/AutoGPT     | AutoGPT |
-| SuperAGI     |  htthttps://github.com/TransformerOptimus/SuperAGI     | SuperAGI |
+| SuperAGI     |  https://github.com/TransformerOptimus/SuperAGI     | SuperAGI |
 | AgentGPT     |  https://github.com/reworkd/AgentGPT     | AgentGPT |
 | big-AGI     |  https://github.com/enricoros/big-AGI     | big-AGI |
