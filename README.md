@@ -28,7 +28,6 @@
 | xai-org/grok-1     | https://github.com/xai-org/grok-1      | 
 | geekan/MetaGPT     | https://github.com/geekan/MetaGPT      | 
 
-
 # Chat 相关
 | Name  |  link  | 描述 |
 | ----- | ------ | ---- |
@@ -46,6 +45,7 @@
 | stable-diffusion-webui      | https://github.com/AUTOMATIC1111/stable-diffusion-webui      | 图片生成 |
 | MochiDiffusion      | https://github.com/godly-devotion/MochiDiffusion      | M1\M2图片生成 |
 | Fooocus | [https://github.com/lllyasviel/Fooocus.git](https://github.com/lllyasviel/Fooocus.git) | Fooocus |
+| flux     | https://github.com/black-forest-labs/flux     | flux |
 
 # AGI
 | Name | Link | 描述 |
