@@ -36,6 +36,7 @@
 | open-webui | https://github.com/open-webui/open-webui | open-webui |
 | babyagi | https://github.com/yoheinakajima/babyagi | babyagi |
 | open-interpreter | [https://github.com/KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) | open-interpreter |
+| wiseflow | https://github.com/TeamWiseFlow/wiseflow | wiseflow |
 
 # AI绘图
 | Name | Link | 描述 |
