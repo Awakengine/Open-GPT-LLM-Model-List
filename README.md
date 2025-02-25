@@ -1,6 +1,9 @@
 # Open GPT/LLM Model List
 | Name                  | git link                                         |
 | --------------------- | ------------------------------------------------ |
+| deepseek-ai/FlashMLA | https://github.com/deepseek-ai/FlashMLA              |
+| DeepSeek-V3 | https://github.com/deepseek-ai/DeepSeek-V3              |
+| DeepSeek-R1 | https://github.com/deepseek-ai/DeepSeek-R1              |
 | gpt4all               | https://github.com/nomic-ai/gpt4all              |
 | ChatGLM-6B            | https://github.com/THUDM/ChatGLM-6B              |
 | ChatGLM2-6B           | https://github.com/THUDM/ChatGLM2-6B              |
