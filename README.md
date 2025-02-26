@@ -1,5 +1,4 @@
 # Open GPT/LLM Model List
-| --------------------- | ------------------------------------------------ |
 | Name                  | git link                                         |
 | --------------------- | ------------------------------------------------ |
 | deepseek-ai/FlashMLA | https://github.com/deepseek-ai/FlashMLA              |
