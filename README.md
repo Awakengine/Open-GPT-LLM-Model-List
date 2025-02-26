@@ -7,6 +7,12 @@
 | DeepGEMM | https://github.com/deepseek-ai/DeepGEMM              |
 | DeepEP | https://github.com/deepseek-ai/DeepEP              |
 
+| Name                  | git link                                         |
+| --------------------- | ------------------------------------------------ |
+| ChatGLM-6B            | https://github.com/THUDM/ChatGLM-6B              |
+| ChatGLM2-6B           | https://github.com/THUDM/ChatGLM2-6B              |
+| ChatGLM3           | https://github.com/THUDM/ChatGLM3              |
+| GLM-4           | https://github.com/THUDM/GLM-4              |
 
 | Name                  | git link                                         |
 | --------------------- | ------------------------------------------------ |
