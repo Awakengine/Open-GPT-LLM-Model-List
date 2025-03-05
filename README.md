@@ -48,6 +48,7 @@
 | ----- | ------ | ---- |
 | jarvis | [https://github.com/microsoft/JARVIS](https://github.com/microsoft/JARVIS) | 微软开源的贾维斯源码 |
 | chatgpt-vue | https://github.com/lianginx/chatgpt-vue | chatgpt聊天UI，基于Vue实现 |
+| deepchat | https://github.com/ThinkInAIXYZ/deepchat | deepchat |
 | open-webui | https://github.com/open-webui/open-webui | open-webui |
 | babyagi | https://github.com/yoheinakajima/babyagi | babyagi |
 | open-interpreter | [https://github.com/KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) | open-interpreter |
