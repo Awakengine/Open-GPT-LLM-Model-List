@@ -13,6 +13,8 @@
 | ChatGLM2-6B           | https://github.com/THUDM/ChatGLM2-6B              |
 | ChatGLM3           | https://github.com/THUDM/ChatGLM3              |
 | GLM-4           | https://github.com/THUDM/GLM-4              |
+| GLM-4-Voice           | [https://github.com/THUDM/GLM-4](https://github.com/THUDM/GLM-4-Voice)              |
+
 
 | Name                  | git link                                         |
 | --------------------- | ------------------------------------------------ |
