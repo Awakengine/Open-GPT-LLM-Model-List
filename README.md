@@ -55,6 +55,7 @@
 | babyagi | https://github.com/yoheinakajima/babyagi | babyagi |
 | open-interpreter | [https://github.com/KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) | open-interpreter |
 | wiseflow | https://github.com/TeamWiseFlow/wiseflow | wiseflow |
+| dify | https://github.com/langgenius/dify | dify |
 
 # AI绘图
 | Name | Link | 描述 |
