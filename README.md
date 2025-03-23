@@ -75,3 +75,4 @@
 | SuperAGI     |  https://github.com/TransformerOptimus/SuperAGI     | SuperAGI |
 | AgentGPT     |  https://github.com/reworkd/AgentGPT     | AgentGPT |
 | big-AGI     |  https://github.com/enricoros/big-AGI     | big-AGI |
+| UI-TARS-desktop     |  https://github.com/bytedance/ç     | UI-TARS-desktop |
