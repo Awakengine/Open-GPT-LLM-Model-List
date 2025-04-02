@@ -45,6 +45,12 @@
 | xai-org/grok-1     | https://github.com/xai-org/grok-1      | 
 | geekan/MetaGPT     | https://github.com/geekan/MetaGPT      | 
 
+
+| Name                  | git link                                         |
+| --------------------- | ------------------------------------------------ |
+| awesome-mcp-servers | https://github.com/punkpeye/awesome-mcp-servers |
+
+
 # Chat 相关
 | Name  |  link  | 描述 |
 | ----- | ------ | ---- |
