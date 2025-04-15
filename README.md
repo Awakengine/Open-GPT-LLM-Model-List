@@ -72,6 +72,8 @@
 | MochiDiffusion      | https://github.com/godly-devotion/MochiDiffusion      | M1\M2图片生成 |
 | Fooocus | [https://github.com/lllyasviel/Fooocus.git](https://github.com/lllyasviel/Fooocus.git) | Fooocus |
 | flux     | https://github.com/black-forest-labs/flux     | flux |
+| agenticSeek     | https://github.com/Fosowl/agenticSeek     | agenticSeek |
+
 
 # AGI
 | Name | Link | 描述 |
