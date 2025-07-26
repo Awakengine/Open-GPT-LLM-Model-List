@@ -83,4 +83,8 @@
 | SuperAGI     |  https://github.com/TransformerOptimus/SuperAGI     | SuperAGI |
 | AgentGPT     |  https://github.com/reworkd/AgentGPT     | AgentGPT |
 | big-AGI     |  https://github.com/enricoros/big-AGI     | big-AGI |
-| UI-TARS-desktop     |  https://github.com/bytedance/ç     | UI-TARS-desktop |
+| UI-TARS-desktop     |  https://github.com/bytedance/UI-TARS-desktop     | UI-TARS-desktop |
+| claude-code     |  https://github.com/anthropics/claude-code     | claude-code  |
+| suna     |   https://www.readme-i18n.com/zh/kortix-ai/suna     | suna  |
+
+
