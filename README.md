@@ -14,6 +14,7 @@
 | ChatGLM3           | https://github.com/THUDM/ChatGLM3              |
 | GLM-4           | https://github.com/THUDM/GLM-4              |
 | GLM-4-Voice           | [https://github.com/THUDM/GLM-4-Voice](https://github.com/THUDM/GLM-4-Voice)              |
+| GLM-4.1V-Thinking          | https://github.com/THUDM/GLM-4.1V-Thinking              |
 
 
 | Name                  | git link                                         |
