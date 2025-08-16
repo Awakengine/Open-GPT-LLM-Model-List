@@ -87,5 +87,6 @@
 | UI-TARS-desktop     |  https://github.com/bytedance/UI-TARS-desktop     | UI-TARS-desktop |
 | claude-code     |  https://github.com/anthropics/claude-code     | claude-code  |
 | suna     |   https://www.readme-i18n.com/zh/kortix-ai/suna     | suna  |
+| autoclip     |   https://github.com/pseeth/autoclip.git     | autoclip  |
 
 
